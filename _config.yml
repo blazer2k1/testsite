@@ -28,14 +28,14 @@ url: "https://blazer2k1.github.io/" # the base hostname & protocol for your site
 # your social media links etc
 #######################################################################
 
-heading: Simply Jekyll
+heading: Test Test
 subheading: # subheading won't work without a tagline, 
           # tagline is mandatory if you want the 
           # suheading to appear. The reason is
           # having a heading and a subheading looks 
           # ridiculous.
   enabled: true
-  name: My Blog
+  name: Test Site
 tagline: # subheading won't work without a tagline, 
          # tagline is mandatory if you want the 
          # suheading to appear. The reason is
